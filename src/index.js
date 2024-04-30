@@ -261,7 +261,7 @@ function animate() {
   });
 
   // Draw the black background with more transparency
-  c.fillStyle = 'rgba(0, 0, 0, 0.8)'; // Semi-transparent black
+  c.fillStyle = 'rgba(0, 0, 0, 0.9)'; // Semi-transparent black
   c.fillRect(0, 0, canvas.width, canvas.height);
 generatorSetup.draw();
   // Draw the text
